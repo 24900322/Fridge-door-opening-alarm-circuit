@@ -44,9 +44,6 @@ The output of U1 is supplied to the second 555 timer (U2), which is configured i
 
 <img width="783" height="285" alt="image" src="https://github.com/user-attachments/assets/0c5e20fe-1f9d-4ec0-8558-d7b8db74dc24" />
 
-
-## EXPECTED OUTPUT:
-
 ### Schematic diagram
  
 ### Layout diagram
